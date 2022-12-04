@@ -23,15 +23,27 @@
 # Setelah dictionary,kita akan menampilan data dengan menggunakan fungsi
 
 - Fungsi untuk menambahkan data 
+
 ![gambar1](gambar/pra7def.png)
 
-- Fungsi untuk menampilan data 
-![gambar1](gambar/gambar1.png)
+![gambar1](gambar/pra7tambahdata.png)
 
-- Fungsi untuk menghapus data berdasarkan nama
-![gambar1](gambar/gambar1.png)
+- Fungsi untuk menampilan data 
+
+![gambar1](gambar/pra7tam.png)
+
+![gambar1](gambar/pra7tampilkan.png)
 
 - Fungsi untuk mengubah data berdasarkan nama
-![gambar1](gambar/gambar1.png)
+
+![gambar1](gambar/pra7ub.png)
+
+![gambar1](gambar/pra7ubhasil.png)
+
+- Fungsi untuk menghapus data berdasarkan nama
+
+![gambar1](gambar/pra7hap.png)
+
+![gambar1](gambar/pra7haphas.png)
 
 # FLOWCHART PRAKTIKUM 7
