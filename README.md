@@ -45,5 +45,3 @@
 ![gambar1](gambar/pra7hap.png)
 
 ![gambar1](gambar/pra7haphas.png)
-
-# FLOWCHART PRAKTIKUM 7
